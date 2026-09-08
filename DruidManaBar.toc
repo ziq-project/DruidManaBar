@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: DruidManaBar
+## Title: DruidManaBar |cff7fff7f - Project Legacy|r
 ## Author: Fork for Project Legacy by Ziq
 ## Notes: Displays a mana bar when shapeshifted.
 ## OptionalDeps: Ace2, DruidManaLib
